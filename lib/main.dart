@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Bangalore Job  Home Page'),
+      home: MyHomePage(title: 'Bangalore Job  Seekers Home Page'),
     );
   }
 }
